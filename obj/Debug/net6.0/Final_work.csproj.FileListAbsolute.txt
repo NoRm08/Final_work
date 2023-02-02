@@ -1,0 +1,15 @@
+C:\Users\Администратор\Desktop\Final_work\bin\Debug\net6.0\Final_work.exe
+C:\Users\Администратор\Desktop\Final_work\bin\Debug\net6.0\Final_work.deps.json
+C:\Users\Администратор\Desktop\Final_work\bin\Debug\net6.0\Final_work.runtimeconfig.json
+C:\Users\Администратор\Desktop\Final_work\bin\Debug\net6.0\Final_work.dll
+C:\Users\Администратор\Desktop\Final_work\bin\Debug\net6.0\Final_work.pdb
+C:\Users\Администратор\Desktop\Final_work\obj\Debug\net6.0\Final_work.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Final_work\obj\Debug\net6.0\Final_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\Final_work\obj\Debug\net6.0\Final_work.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\Final_work\obj\Debug\net6.0\Final_work.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\Final_work\obj\Debug\net6.0\Final_work.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Final_work\obj\Debug\net6.0\Final_work.dll
+C:\Users\Администратор\Desktop\Final_work\obj\Debug\net6.0\refint\Final_work.dll
+C:\Users\Администратор\Desktop\Final_work\obj\Debug\net6.0\Final_work.pdb
+C:\Users\Администратор\Desktop\Final_work\obj\Debug\net6.0\Final_work.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\Final_work\obj\Debug\net6.0\ref\Final_work.dll
